@@ -1,6 +1,6 @@
 # DelilahResto
-enlace a gitHub: https://github.com/MauroCominotti \
-enlace a Heroku para probarlo: https://dellilah-resto-api-rest.herokuapp.com/
+Enlace a cuenta de GitHub: https://github.com/MauroCominotti \
+Enlace a Heroku para probarlo: https://dellilah-resto-api-rest.herokuapp.com/
 
 ##  ENDPOINTS 
 ### Para los Usuarios:
